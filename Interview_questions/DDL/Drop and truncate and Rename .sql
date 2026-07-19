@@ -14,7 +14,7 @@
 
 -- Drop students table
 
--- =========================================
+-- ====================================
 -- Question 3
 -- Topic      : TRUNCATE TABLE
 -- Difficulty : Beginner

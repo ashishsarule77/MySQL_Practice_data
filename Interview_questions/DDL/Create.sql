@@ -9,6 +9,7 @@ Question 1
 Question 2
     Create a students table to store:
 
+
     student id
     student name
     date of birth

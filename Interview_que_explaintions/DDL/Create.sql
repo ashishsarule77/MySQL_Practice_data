@@ -40,6 +40,7 @@ CREATE TABLE students
     email VARCHAR(100)
 );
 
+select * from students;
 -- =========================================
 -- Question 3
 -- Topic      : CREATE TABLE
